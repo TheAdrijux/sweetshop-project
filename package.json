@@ -1,0 +1,12 @@
+{
+  "name": "sweetshop-tests",
+  "version": "1.0.0",
+  "description": "Cypress E2E test suite for the Sweet Shop demo application",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.6.0"
+  }
+}
